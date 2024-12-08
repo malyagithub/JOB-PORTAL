@@ -2,7 +2,7 @@ import React from "react";
 import { Button } from "./ui/button";
 import { Bookmark } from "lucide-react";
 import { Avatar, AvatarImage } from "@radix-ui/react-avatar";
-import { Badge } from "./ui/Badge";
+import { Badge } from "./ui/badge";
 import { useNavigate } from "react-router-dom";
 
 export const Job = ({job}) => {
