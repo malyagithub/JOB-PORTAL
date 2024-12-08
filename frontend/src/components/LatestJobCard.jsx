@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { Badge } from "./ui/Badge";
+import { Badge } from "./ui/badge";
 import React from "react";
 import { motion } from "framer-motion";
 
